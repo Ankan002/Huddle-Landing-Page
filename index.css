@@ -1,0 +1,103 @@
+body{
+    margin: 0px;
+    background-color: #7952b3;
+    background-image: url('./bg-desktop.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+.heading{
+    display: inline-block;
+    margin-top: 0px;
+    font-size: 75px;
+    font-family: 'Balsamiq Sans', cursive;
+    color: white;
+}
+
+.navbar{
+    display:flex;
+}
+
+.head-icon{
+    fill: aliceblue;
+    width: 50px;
+    margin-left: 200px;
+    margin-top: 50px;
+    
+}
+
+.illustration-images{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.paragraph-main{
+    width: 800px;
+    float: right;
+    color: white;
+    margin-right: 50px;
+    
+}
+
+.heading-2{
+    font-family: 'Bree Serif', serif;
+    font-size: 60px;
+}
+
+.paragraph{
+    font-size: 30px;
+    font-family: 'Archivo', sans-serif;
+    margin-bottom: 60px;
+}
+
+.btn {
+    background: #c107e6;
+    background-image: -webkit-linear-gradient(top, #c107e6, #734b82);
+    background-image: -moz-linear-gradient(top, #c107e6, #734b82);
+    background-image: -ms-linear-gradient(top, #c107e6, #734b82);
+    background-image: -o-linear-gradient(top, #c107e6, #734b82);
+    background-image: linear-gradient(to bottom, #c107e6, #734b82);
+    -webkit-border-radius: 26;
+    -moz-border-radius: 26;
+    border-radius: 26px;
+    text-shadow: 1px 1px 3px #666666;
+    font-family: Georgia;
+    color: #f7f7f7;
+    font-size: 25px;
+    padding: 14px 45px 14px 45px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background: #d503ff;
+    background-image: -webkit-linear-gradient(top, #d503ff, #f200ff);
+    background-image: -moz-linear-gradient(top, #d503ff, #f200ff);
+    background-image: -ms-linear-gradient(top, #d503ff, #f200ff);
+    background-image: -o-linear-gradient(top, #d503ff, #f200ff);
+    background-image: linear-gradient(to bottom, #d503ff, #f200ff);
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+
+  .btn-control{
+      margin-top: 15px;
+  }
+
+  .footer{
+      margin-left: 1600px;
+      margin-top: 150px;
+  }
+
+  .fab {
+      font-size: 30px;
+      color: #f7f7f7;
+      margin-right: 50px;
+      cursor: pointer;
+  }
+
+  .fab:hover{
+      cursor: pointer;
+      color: #d503ff;
+  }

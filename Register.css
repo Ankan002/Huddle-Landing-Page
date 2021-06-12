@@ -1,0 +1,7 @@
+body{
+    margin: 0px;
+    background-color: #7952b3;
+    background-image: url('./bg-desktop.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
